@@ -1,6 +1,7 @@
-# forkverser
+## Forkverser
 Simple bash script that utilizes https://securitytrails.com/ for reverse DNS purposes
 
-Requirements
-lynx
-prips
+
+## Requirements
+- lynx
+- prips
